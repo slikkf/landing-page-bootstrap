@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 420" role="img" aria-label="Analytics dashboard illustration">
+<rect width="560" height="420" rx="28" fill="#f3f7ff"/>
+<rect x="60" y="60" width="440" height="280" rx="18" fill="#fff" stroke="#dbe5ff" stroke-width="3"/>
+<rect x="60" y="60" width="440" height="40" rx="18" fill="#0d6efd"/><rect x="60" y="82" width="440" height="18" fill="#0d6efd"/>
+<g fill="#fff"><circle cx="85" cy="80" r="6"/><circle cx="105" cy="80" r="6" opacity=".7"/><circle cx="125" cy="80" r="6" opacity=".5"/></g>
+<g fill="#cfdcff"><rect x="90" y="250" width="34" height="60" rx="6"/><rect x="140" y="210" width="34" height="100" rx="6"/><rect x="190" y="230" width="34" height="80" rx="6"/></g>
+<rect x="240" y="170" width="34" height="140" rx="6" fill="#0d6efd"/>
+<polyline points="300,290 340,240 380,262 420,190 465,150" fill="none" stroke="#0d6efd" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<g fill="#0d6efd"><circle cx="340" cy="240" r="7"/><circle cx="420" cy="190" r="7"/><circle cx="465" cy="150" r="7"/></g>
+<g fill="#e7eeff"><rect x="90" y="125" width="150" height="14" rx="7"/><rect x="90" y="150" width="100" height="14" rx="7"/></g>
+<circle cx="440" cy="360" r="40" fill="#ff5b7f" opacity=".15"/><circle cx="110" cy="370" r="24" fill="#0d6efd" opacity=".12"/>
+</svg>
